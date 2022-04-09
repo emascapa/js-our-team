@@ -1,0 +1,12 @@
+body {
+    background-color: lightgrey;
+}
+
+.card {
+    border-color: lightgray;
+}
+
+form {
+    width: 60vw;
+}
+
